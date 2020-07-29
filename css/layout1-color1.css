@@ -901,7 +901,7 @@ p + .btn {
   height: auto;
   border-radius: 0;
   background-color: #1f4068;
-  color: #1f1f29;
+  color: #fff;
   font-size: 11px;
   font-weight: 400;
   text-transform: uppercase;
@@ -1165,7 +1165,7 @@ ul.skill li:before {
   content: "";
   display: block;
   position: absolute;
-  background: #eeeeee;
+  background: #fff;
   bottom: 0;
 }
 ul.skill li .skill-bar {
