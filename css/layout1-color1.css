@@ -3296,3 +3296,10 @@ footer .list-inline a:hover {
   -moz-animation: "skill-animation-100" 2s ease-out;
   -webkit-animation: "skill-animation-100" 2s ease-out;
 }
+
+/* user  */
+
+.btn-custom {
+  border-radius: 5px;
+  background-color: #e43f5a;
+}
