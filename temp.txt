@@ -1,0 +1,37 @@
+• AWS 
+• CI/CD 
+• Docker 
+• Kubernetes 
+• EC2 
+• S3 
+• OPS 
+• CircleCi 
+• UnitTesting 
+• regex 
+• Linux 
+• OOPs 
+• Flask RESTful 
+• SQL/NoSQL 
+• Angular 
+• bootstrap 
+• Tailwind-css
+• Version control (GIT) 
+• Python 
+• JavaScript  
+• Typescript 
+• Bash 
+• Html/Css 
+• JSON 
+• yaml 
+• C/C++  
+• Java  
+
+• Leadership.
+• Agile
+• Scrum
+• DevOps 
+• Public speaking 
+• English communication 
+• Resourcefulness 
+• Initiative 
+• Grit
